@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/cars
+Content-Type: application/json
+
+{
+  "id": 45,
+  "brand": "BMW",
+  "model": "E36 318i",
+  "cylinders": 4,
+  "cv": 115,
+  "year": "1995",
+  "country": "GERMANY"
+}

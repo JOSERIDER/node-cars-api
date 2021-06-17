@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "E36 318i",
+    "cylinders": 4,
+    "cv": 115,
+    "year": "1995",
+    "country": "GERMANY"
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "E46 316i",
+    "cylinders": 4,
+    "cv": 115,
+    "year": "2004",
+    "country": "GERMANY"
+  },
+  {
+    "id": 3,
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "cylinders": 8,
+    "cv": 200,
+    "year": "1960",
+    "country": "USA"
+  },
+  {
+    "id": 4,
+    "brand": "Ford",
+    "model": "Munstang GT",
+    "cylinders": 8,
+    "cv": 400,
+    "year": "1970",
+    "country": "USA"
+  }
+]
